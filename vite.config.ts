@@ -9,7 +9,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       "/api": {
-        target: "https://nomadia-backend-production-d86b.up.railway.app",
+        target: "https://nomadia-backend-smoky.vercel.app",
         changeOrigin: true,
       },
     },
