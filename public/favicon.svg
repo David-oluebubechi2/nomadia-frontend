@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>Nomadia</title>
   <rect width="24" height="24" rx="5" fill="#17211b"/>
-  <path fill="#ffffff" d="M12 2.6c-3.59 0-6.5 2.91-6.5 6.5 0 4.79 6.5 12.3 6.5 12.3s6.5-7.51 6.5-12.3c0-3.59-2.91-6.5-6.5-6.5zm0 9.02A2.52 2.52 0 0 1 9.48 9.1 2.52 2.52 0 0 1 12 6.58a2.52 2.52 0 0 1 2.52 2.52A2.52 2.52 0 0 1 12 11.62z"/>
+  <circle cx="12" cy="12" r="6.9" fill="none" stroke="#f6f1e7" stroke-width="1.1"/>
+  <path d="M12 3.4v1.8M12 18.8v1.8M3.4 12h1.8M18.8 12h1.8"
+        stroke="#f6f1e7" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M12 13.9a1.9 1.9 0 1 0 0-3.8 1.9 1.9 0 0 0 0 3.8z"
+        fill="#f6f1e7"/>
+  <path d="M12 5.2 14.9 12h-5.8L12 5.2z" fill="#eba44f"/>
 </svg>
